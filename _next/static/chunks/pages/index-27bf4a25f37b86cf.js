@@ -314,196 +314,11 @@
                   }),
                   (0, a.jsxs)("div", {
                     className: "px-4 sm:w-1/5 md:w-1/5 xl:w-1/5",
-                    children: [
-                      (0, a.jsx)("h5", {
-                        className: "text-xl font-bold mb-6",
-                        children: "Features",
-                      }),
-                      (0, a.jsxs)("ul", {
-                        className: "list-none footer-links",
-                        children: [
-                          (0, a.jsx)("li", {
-                            className: "mb-2",
-                            children: (0, a.jsx)("a", {
-                              href: "https://docs.wombat.exchange/resources/whitepapers",
-                              target: "_blank",
-                              rel: "noreferrer",
-                              className:
-                                "border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800",
-                              children: "Single-sided Pegged Asset AMM",
-                            }),
-                          }),
-                          (0, a.jsx)("li", {
-                            className: "mb-2",
-                            children: (0, a.jsx)("a", {
-                              href: "https://docs.wombat.exchange/resources/whitepapers",
-                              target: "_blank",
-                              rel: "noreferrer",
-                              className:
-                                "border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800",
-                              children: "Single-sided Volatile Asset AMM",
-                            }),
-                          }),
-                          (0, a.jsx)("li", {
-                            className: "mb-2",
-                            children: (0, a.jsx)("a", {
-                              href: "https://docs.wombat.exchange/concepts/coverage-ratio",
-                              target: "_blank",
-                              rel: "noreferrer",
-                              className:
-                                "border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800",
-                              children: "Single-sided Liquidity Pools",
-                            }),
-                          }),
-                          (0, a.jsx)("li", {
-                            className: "mb-2",
-                            children: (0, a.jsx)("a", {
-                              href: "https://docs.wombat.exchange/concepts/invariant-curve",
-                              target: "_blank",
-                              rel: "noreferrer",
-                              className:
-                                "border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800",
-                              children: "Low Slippage",
-                            }),
-                          }),
-                          (0, a.jsx)("li", {
-                            className: "mb-2",
-                            children: (0, a.jsx)("a", {
-                              href: "https://docs.wombat.exchange/concepts/cross-chain",
-                              target: "_blank",
-                              rel: "noreferrer",
-                              className:
-                                "border-b border-solid border-transparent ",
-                              children: "Crosschain",
-                            }),
-                          }),
-                          (0, a.jsx)("li", {
-                            className: "mb-2",
-                            children: (0, a.jsx)("a", {
-                              href: "https://docs.wombat.exchange/developers/contracts",
-                              target: "_blank",
-                              rel: "noreferrer",
-                              className:
-                                "border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800",
-                              children: "Multichain",
-                            }),
-                          }),
-                          (0, a.jsx)("li", {
-                            className: "mb-2",
-                            children: (0, a.jsx)("a", {
-                              href: "#",
-                              target: "_blank",
-                              rel: "noreferrer",
-                              className:
-                                "border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800",
-                              children: "Gamified Bribe Market",
-                            }),
-                          }),
-                          (0, a.jsx)("li", {
-                            className: "mb-2",
-                            children: (0, a.jsx)("a", {
-                              href: "https://docs.wombat.exchange/governance/gauge-voting",
-                              target: "_blank",
-                              rel: "noreferrer",
-                              className:
-                                "border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800",
-                              children: "Traditional Bribe Market",
-                            }),
-                          }),
-                        ],
-                      }),
-                    ],
+                    children: [],
                   }),
                   (0, a.jsxs)("div", {
                     className: "px-4 sm:w-1/5 md:w-1/5 xl:w-1/5 mt-8 sm:mt-0",
-                    children: [
-                      (0, a.jsx)("h5", {
-                        className: "text-xl font-bold mb-6",
-                        children: "Resources",
-                      }),
-                      (0, a.jsxs)("ul", {
-                        className: "list-none footer-links",
-                        children: [
-                          (0, a.jsx)("li", {
-                            className: "mb-2",
-                            children: (0, a.jsx)("a", {
-                              href: "https://docs.wombat.exchange/tokenomics/about-wom/where-to-buy-usdwom",
-                              target: "_blank",
-                              rel: "noreferrer",
-                              className:
-                                "border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800",
-                              children: "Where To Buy $WOM?",
-                            }),
-                          }),
-                          (0, a.jsx)("li", {
-                            className: "mb-2",
-                            children: (0, a.jsx)("a", {
-                              href: "https://docs.wombat.exchange/",
-                              target: "_blank",
-                              rel: "noreferrer",
-                              className:
-                                "border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800",
-                              children: "GitBook",
-                            }),
-                          }),
-                          (0, a.jsx)("li", {
-                            className: "mb-2",
-                            children: (0, a.jsx)("a", {
-                              href: "https://gov.wombat.exchange/",
-                              target: "_blank",
-                              rel: "noreferrer",
-                              className:
-                                "border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800",
-                              children: "Governance",
-                            }),
-                          }),
-                          (0, a.jsx)("li", {
-                            className: "mb-2",
-                            children: (0, a.jsx)("a", {
-                              href: "https://www.youtube.com/@wombatexchange",
-                              target: "_blank",
-                              rel: "noreferrer",
-                              className:
-                                "border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800",
-                              children: "YouTube",
-                            }),
-                          }),
-                          (0, a.jsx)("li", {
-                            className: "mb-2",
-                            children: (0, a.jsx)("a", {
-                              href: "https://docs.wombat.exchange/resources/whitepapers",
-                              target: "_blank",
-                              rel: "noreferrer",
-                              className:
-                                "border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800",
-                              children: "Whitepapers",
-                            }),
-                          }),
-                          (0, a.jsx)("li", {
-                            className: "mb-2",
-                            children: (0, a.jsx)("a", {
-                              href: "https://docs.wombat.exchange/resources/security-audits",
-                              target: "_blank",
-                              rel: "noreferrer",
-                              className:
-                                "border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800",
-                              children: "Security Audits",
-                            }),
-                          }),
-                          (0, a.jsx)("li", {
-                            className: "mb-2",
-                            children: (0, a.jsx)("a", {
-                              href: "https://docs.wombat.exchange/resources/brand-assets",
-                              target: "_blank",
-                              rel: "noreferrer",
-                              className:
-                                "border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800",
-                              children: "Brand Assets",
-                            }),
-                          }),
-                        ],
-                      }),
-                    ],
+                    children: [],
                   }),
                   (0, a.jsxs)("div", {
                     className: "px-4 sm:w-1/5 md:w-1/5 xl:w-1/5 mt-8 md:mt-0",
@@ -529,28 +344,6 @@
                           (0, a.jsx)("li", {
                             className: "mb-2",
                             children: (0, a.jsx)("a", {
-                              href: "https://medium.com/@wombatexchange",
-                              target: "_blank",
-                              rel: "noreferrer",
-                              className:
-                                "border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800",
-                              children: "Medium",
-                            }),
-                          }),
-                          (0, a.jsx)("li", {
-                            className: "mb-2",
-                            children: (0, a.jsx)("a", {
-                              href: "https://discord.gg/Wombat",
-                              target: "_blank",
-                              rel: "noreferrer",
-                              className:
-                                "border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800",
-                              children: "Discord",
-                            }),
-                          }),
-                          (0, a.jsx)("li", {
-                            className: "mb-2",
-                            children: (0, a.jsx)("a", {
                               href: "https://t.me/WombatExchange",
                               target: "_blank",
                               rel: "noreferrer",
@@ -562,12 +355,12 @@
                           (0, a.jsx)("li", {
                             className: "mb-2",
                             children: (0, a.jsx)("a", {
-                              href: "https://t.me/WombatExchangeNews",
+                              href: "https://www.dextools.io",
                               target: "_blank",
                               rel: "noreferrer",
                               className:
                                 "border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800",
-                              children: "Telegram News",
+                              children: "DEXTools",
                             }),
                           }),
                         ],
