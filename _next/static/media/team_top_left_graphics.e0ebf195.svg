@@ -1,0 +1,37 @@
+
+<svg
+          width='80'
+          height='80'
+          viewBox='0 0 80 80'
+          fill='none'
+          xmlns='http://www.w3.org/2000/svg'
+        >
+          <rect
+            opacity='0.3'
+            width='39.9911'
+            height='39.9911'
+            transform='matrix(1 0 0 -1 0 79.9822)'
+            fill='#E5BB25'
+          />
+          <rect
+            opacity='0.3'
+            width='39.9911'
+            height='39.9911'
+            transform='matrix(1 0 0 -1 0 39.9911)'
+            fill='#E5BB25'
+          />
+          <rect
+            opacity='0.3'
+            width='39.9911'
+            height='39.9911'
+            transform='matrix(1 0 0 -1 39.9912 39.9911)'
+            fill='#E5BB25'
+          />
+          <rect
+            opacity='0.3'
+            width='39.9911'
+            height='39.9911'
+            transform='matrix(1 0 0 -1 0 39.9911)'
+            fill='#E5BB25'
+          />
+        </svg>
