@@ -2251,8 +2251,10 @@
                           className: "flex-none pt-2 lg:pt-0 w-28 lg:w-44",
                           children: (0, x.jsx)("a", {
                             href: "#",
-                            children: (0, x.jsx)(eW(), {
-                              src: eK.Z,
+                            children: (0, x.jsx)("img", {
+                              src: eK.Z.src,
+                              width: eK.Z.width,
+                              height: eK.Z.height,
                               alt: "wombat",
                             }),
                           }),

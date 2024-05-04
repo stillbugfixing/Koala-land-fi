@@ -82,7 +82,7 @@
             className: "flex flex-col space-y-4 items-start rounded-md",
             children: [
               (0, a.jsx)("div", {
-                children: (0, a.jsx)(l(), { src: t.icon, alt: "" }),
+                children: (0, a.jsx)("img", { src: t.icon.src, width: t.icon.width, height: t.icon.height, alt: "" }),
               }),
               (0, a.jsxs)("div", {
                 ref: s,
@@ -304,8 +304,10 @@
                         className: "flex-none pt-2 lg:pt-0 w-28 lg:w-44",
                         children: (0, a.jsx)("a", {
                           href: "#",
-                          children: (0, a.jsx)(l(), {
-                            src: g.Z,
+                          children: (0, a.jsx)("img", {
+                            src: g.Z.src,
+                            width: g.Z.width,
+                            height: g.Z.height,
                             alt: "wombat",
                           }),
                         }),
@@ -426,17 +428,17 @@
                     }),
                     (0, a.jsx)("div", {
                       className: "mt-4",
-                      children: (0, a.jsx)(l(), { src: j, alt: "" }),
+                      children: (0, a.jsx)("img", { src: j.src, width: j.width, height: j.height, alt: "" }),
                     }),
                     (0, a.jsx)("div", {
                       className: "block md:hidden",
-                      children: (0, a.jsx)(l(), { src: p, alt: "" }),
+                      children: (0, a.jsx)("img", { src: p.src, width: p.width, height: p.height, alt: "" }),
                     }),
                   ],
                 }),
                 (0, a.jsx)("div", {
                   className: "hidden md:block my-auto md:w-1/2",
-                  children: (0, a.jsx)(l(), { src: p, alt: "" }),
+                  children: (0, a.jsx)("img", { src: p.src, width: p.width, height: p.height, alt: "" }),
                 }),
               ],
             }),
@@ -709,8 +711,10 @@
                         className: "object-contain md: scale-95 scale-75",
                         alt: "eureka",
                       }),
-                      (0, a.jsx)(l(), {
-                        src: R,
+                      (0, a.jsx)("img", {
+                        src: R.src,
+                        width: R.width,
+                        height: R.height,
                         className: "object-contain scale-50",
                         alt: "rubik",
                       }),
@@ -729,13 +733,17 @@
                         className: "object-contain",
                         alt: "cryptowesearch",
                       }),
-                      (0, a.jsx)(l(), {
-                        src: H,
+                      (0, a.jsx)("img", {
+                        src: H.src,
+                        width: H.width,
+                        height: H.height,
                         className: "object-contain",
                         alt: "multichain",
                       }),
-                      (0, a.jsx)(l(), {
-                        src: G,
+                      (0, a.jsx)("img", {
+                        src: G.src,
+                        width: G.width,
+                        height: G.height,
                         className: "object-contain md:scale-50 scale-50",
                         alt: "rr",
                       }),
